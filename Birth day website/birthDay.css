@@ -63,17 +63,18 @@ margin:50px 0px 20px 0px;
     background-size: cover;
 }
 #happy:hover{
-    background-image: url("../images/happy2.webp");
+    background-image: url("./images/happy2.webp");
 }
 #hot:hover{
-    background-image: url("../images/hot.webp");
+    background-image: url("./images/hot.webp");
 }
 #genius:hover{
-    background-image: url("../images/genius.webp");
+    background-image: url("./images/genius.webp");
 }
 #badass:hover{
-    background-image: url("../images/badass.webp");
+    background-image: url("./images/badass.webp");
 }
 #cheers:hover{
-    background-image: url("../images/cheers.webp");
+    background-image: url("./images/cheers.webp");
+
 }
